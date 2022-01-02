@@ -1,0 +1,4 @@
+.git/*
+.vs/*
+MonitorOff/bin/*
+MonitorOff/obj/*
